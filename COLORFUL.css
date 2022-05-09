@@ -1,0 +1,156 @@
+.SIZE{
+
+    border-style: double;
+    border-radius: 50%;
+    height: 10%;
+    Width: 10%;
+    border-color: aliceblue;
+
+
+
+}
+.intro{
+
+    display:inline;
+    
+
+}
+
+body{
+background-image: url('A.png');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+color: azure;
+
+
+
+
+
+}
+.main  , .Synopsis{
+
+font-size: 3rem;
+margin-top: 12.5rem;
+margin-left: 38rem;
+
+
+
+}
+.boring, .Summary
+{
+font-size: 50%;
+
+
+
+}
+#nav {
+    display: none;
+}
+a { 
+    display: inline;
+    text-decoration: none;
+    color: white;
+
+
+}
+
+
+.navtext {
+
+  color: black;
+}
+
+
+hr,.line{
+  width:50%;
+  margin-right: 800px;
+  height:4px;
+  background-color: white;
+  border: 0;
+
+  
+}
+.line{
+ margin-right: 0;
+  width: 100% ;
+
+  
+} */
+
+My links{
+  width:20% ;
+  
+}
+.Art {
+
+  
+font-size: 40px;
+
+
+
+  
+}
+
+/* From uiverse.io by @meermubashar */
+.navbtns {
+ width: 140px;
+ height: 45px;
+ font-size: 23px;
+ cursor: pointer;
+ border: none;
+ outline: none;
+ background: transparent;
+ color: white;
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: 700;
+ position: relative;
+ transition: all 0.5s;
+ z-index: 1;
+}
+
+.navbtns::before {
+ content: "";
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 5px;
+ height: 100%;
+ background-color: white;
+ z-index: -1;
+ transition: all 0.5s;
+}
+
+.navbtns:hover::before {
+ width: 100%;
+}
+
+.navbtns:hover {
+ color: black;
+}
+
+.navbtns:active:before {
+ background: #b9b9b9;
+}
+.Summary{
+
+  margin-left : 30rem;
+
+
+  font-size : 60%;
+  margin-right : 50rem;
+
+
+
+  
+}
+
+
+
+
+
+
+
+
+
+  
